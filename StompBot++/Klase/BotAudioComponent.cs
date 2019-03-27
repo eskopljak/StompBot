@@ -42,13 +42,14 @@ namespace StompBot
 
 			commands.RegisterCommands<Komande>();
 
-			RespondNaPoruke();
-
+			//RespondNaPoruke();
+			
 			await discord.ConnectAsync();
 
 			await Task.Delay(-1);
 		}
 
+		/*
 		static void RespondNaPoruke()
 		{
 			discord.MessageCreated += async e =>
@@ -65,6 +66,6 @@ namespace StompBot
 					}
 				}
 			};
-		}
+		}*/
 	}
 }
