@@ -1,0 +1,63 @@
+Inzenjerska fizika 1 
+if1 
+40
+
+Inzenjerska matematika 1 
+im1 
+2092
+
+Linearna algebra i geometrija 
+lag 
+44
+
+Osnove elektrotehnike 
+oe 
+2093
+
+Osnove racunarstva 
+or 
+1
+
+Inzenjerska matematika 2 
+im2 
+13
+
+Matematicka logika i teorija izracunljivosti 
+mlti 
+2096
+
+Operativni sistemi 
+os 
+2098
+
+Tehnike programiranja 
+tp 
+2
+
+Vjerovatnoca i statistika 
+vis 
+2097
+
+Algoritmi i strukture podataka 
+asp 
+42
+
+Diskretna matematika 
+dm 
+4
+
+Logicki dizajn 
+ld 
+43
+
+Numericki algoritmi 
+na 
+2101
+
+Osnove baza podataka 
+obp 
+105
+
+Razvoj programskih rjesenja 
+rpr 
+9
