@@ -11,7 +11,7 @@ namespace StompBot
 {
     public static class BotAudioComponent
     {
-		const string _token = "";
+		const string _token = ""; //placeholder
 
 		public static DiscordClient discord;
 		public static VoiceNextClient voice;
